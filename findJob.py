@@ -32,8 +32,13 @@ def find_jobs(dom, date):
             job["company_name"] = job_items[1].text
             job["company_url"] = job_items[1]['href']
             #如果公司資訊有資料才取值
-            job["company_desc"] = company_desc[0].text if company_desc[0] else ''
-            job["company_benefit"] = company_desc[1].text if company_desc[1] else ''
+            if company_desc:
+                job["company_desc"] = company_desc[0].text if company_desc[0] else ''
+                job["company_benefit"] = company_desc[1].text if company_desc[1] else ''
+            else:
+                job["company_desc"] = ""
+                job["company_benefit"] = ""
+                
             job["indcat_name"] = company_level.find_all('li')[-1].text
             job["company_addr"] = company_level.next_sibling.next_sibling.find('li').text
             job["apply_nums"] = job_items[-1].text
@@ -60,14 +65,20 @@ def find_jobs(dom, date):
 
 def find_job_desc(url):
     current_job = getWebPage.get_web_page(url)
-    soup = BeautifulSoup(current_job, 'html.parser')
-    return soup.find('div', 'job-description col-12').text
+    if current_job:
+        soup = BeautifulSoup(current_job, 'html.parser')
+        return soup.find('div', 'job-description col-12').text
+    else:
+        return ""
 
 def find_company_desc(url):
     print(url)
     current_job = getWebPage.get_web_page(url)
-    soup = BeautifulSoup(current_job, 'html.parser')
-    return [soup.find('p', 'r3 mb-0 text-break'), soup.find('div', 'row benefits-description')]
+    if current_job:
+        soup = BeautifulSoup(current_job, 'html.parser')
+        return [soup.find('p', 'r3 mb-0 text-break'), soup.find('div', 'row benefits-description')]
+    else:
+        return ""
 
 
 def find_job_page(keyword):
@@ -88,6 +99,7 @@ def find_job_page(keyword):
             current_jobs = find_jobs(current_page, today)
             #如果不為空list，則繼續往下抓取資料
             if current_jobs:
+                print(page)
                 jobs.append(current_jobs)
                 #往下一頁抓取工作資料   
                 page +=1 
