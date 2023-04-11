@@ -1,0 +1,1124 @@
+公司名稱,公司產品,職稱,公司所在縣市
+"104測試_APP公司(請勿應徵)
+                    ","測試經營理念auto_3777
+","198    測試職務_請勿應徵_web_qa_e2e_主動應徵
+Name: job_name, dtype: object","198    台北市
+Name: company_addr, dtype: object"
+"Intel_美商英特爾亞太科技有限公司台灣分公司
+                    ","*具有廣泛市場潛力的產品組合*
+英特爾的產品組合提供了端到端解決方案，可滿足以資料為中心環境之與時俱進的需求。英特爾不斷為廣泛的市場開發新技術和產品，從邊緣運算到5G網路、雲端運算、人工智慧和自動駕駛，我們的產品為更具智慧和互聯特性的世界，提供了必要的構建基礎。
+
+*A Portfolio with Broad Market Potential*
+Our product portfolio provides end-to-end solutions that address the needs of an ever-evolving data-centric world. We are continuously developing new technologies and products for a broad spectrum of markets. From edge computing to the 5G network, cloud computing, AI, and autonomous driving, our products deliver the necessary building blocks for an increasingly smart and connected world.
+
+
+http://www.intel.com/products/index.htm?iid=CorporateV3+Header_2_Product_Head","230    JR0241270 Data Engineer
+Name: job_name, dtype: object","230    新竹市
+Name: company_addr, dtype: object"
+"Inventec_英業達股份有限公司
+                    ",,"178    NPU(Neural Network Processor) AI軟體開發資深工程師(經副理級)
+Name: job_name, dtype: object","178    台北市
+Name: company_addr, dtype: object"
+"Inventec_英業達股份有限公司
+                    ",英業達全體員工秉持集團會長 葉國一先生所提出的經營理念 -「創新、品質、虛心、力行」，從虛心積極的態度，到客觀前瞻的決策思維，群策群力，不斷創新價值，貫徹執行，力求品質完美。,"95    NPU AI晶片系統架構開發資深工程師(經副理級)
+Name: job_name, dtype: object","95    台北市
+Name: company_addr, dtype: object"
+"LILEE SYSTEMS_理立系統股份有限公司
+                    ","提供軌道產業用的無線通訊系統(For Train Control), 針對高鐵/傳統鐵路/捷運各自提供專網專用的無線通訊方案
+提供完整的Core Network方案
+1. OBU(On Board Unit), 列車上的Radio
+2. Wayside Unit, 於鐵道沿線的中繼站台
+3. Base station, 長距離高功率的基地台
+4. Mobility Controller, 提供無間隙的網路管理, 能一次管理數百台的基地台或者中繼及車上機
+
+我們將使用Lilee 的PTC (積極或精確列車控制) 通信解決方案來展示我們最前沿的技術和產品，因為列車控制系統已從窄帶通訊的GSM-R發展到寬帶通訊的PTC。
+
+PTC 的主要概念是列車在行進過程中將會接收到車體位置以及可以繼續安全行駛的信號，或稱為行駛許可。車載儀器將會執行所收到的指示，以防止不安全的行駛發生。 PTC系統在無信號或有信號的區域均應正常工作，並會使用GPS衛星定位系統追踪列車的行進。 PTC的主要特色在於：
+有效防止車體分離或列車相撞
+強制遵守規定的行進速度
+強制遵守臨時速度限制
+保障鐵路工人路旁安全
+
+PTC 的主要概念是列車在行進過程中將會接收到車體位置以及可以繼續安全行駛的信號，或稱為行駛許可。車載儀器將會執行所收到的指示
+
+* 2008 年美國總統布什簽署國會通過條例草案，規定所有鐵路系統於2015年底前實施PTC 。
+
+Positive Train Control (PTC)
++Scalable and reliable communications infrastructure for Positive Train Control (PTC)
++Back office, locomotive, wayside and Hyrail solutions
++Hardware, software and professional services
+
+Connected Transportation
++Integrated communications hub
++Passenger WiFi
++On-board applications
++First responders
+
+Fleet and Passenger Security
++Complete security solution
++Live monitoring and local storage
++Automatic file upload
+
+Carriage and Passenger Information
++Sensor data collection
++Passenger Information
++Back office integration
+
+Industrial 4.0
++Emerging IoT/M2M markets that could benefit from our technology and expertise include:
+Energy, Environmental monitoring, Oil & gas","50     【ACES】軟體工程師Software Engineer  – Planning and N...
+162                【ACES】 System Software Engineer 軟體工程師
+175    【ACES】軟體工程師Software Engineer - Localization an...
+176        製程測試工程師 Project Engineer (Manufacturing Test)
+270    【ACES】軟體工程師Software Engineer - Objects Prediction
+Name: job_name, dtype: object","50     新北市
+162    新北市
+175    新北市
+176    新北市
+270    新北市
+Name: company_addr, dtype: object"
+"Qualcomm Semiconductor Corporation_高通半導體有限公司
+                    ","We often do what many thought was impossible.
+Qualcomm invents breakthrough technologies that transform how the world connects, computes and communicates. When we connected the phone to the Internet, the mobile revolution was born. Today, our inventions are the foundation for life-changing products, experiences, and industries. As we lead the world to 5G, we envision this next big change in cellular technology spurring a new era of intelligent, connected devices and enabling new opportunities.","245    Computer Vision Engineer, Staff (Hsinchu)(3051...
+Name: job_name, dtype: object","245    新竹市
+Name: company_addr, dtype: object"
+"TechNexion Ltd_彤晟科技股份有限公司
+                    ","彤晟科技股份有限公司為國際經營、年輕有活力的團隊，給予員工空間一展所長，經由實務經驗成長和提昇專業技能，實現個人目標成就感，與員工一同開創未來的願景。
+
+Technexion  is an international, young and dynamic team. It gives the staff space to show their strong points. Through practical experience, they can grow and improve their professional skills, realize their personal goal and sense of achievement, and create a vision for the future with their employees.","108                                         FAE Engineer
+174    Senior Embedded Software Engineer (ARM team, BSP)
+Name: job_name, dtype: object","108    新北市
+174    新北市
+Name: company_addr, dtype: object"
+"一踢科技系統整合有限公司
+                    ","一小步、一大步，都是前進，在人與機器合作的時代，盡一份心力，用鍵盤展現創造力，彈指之間為世界的未來創造無限可能，透過系統導入、數據化分析為各行各業、為社會帶來貢獻，我們努力前進、我們相信一起走走得更遠，我們和客戶併肩做夢，我們期許夢可以做的大一些。
+
+YITI理念
+
+【誠信 I】   在大數據時代，數據即企業資產，我們重視客戶的資產，對員工、對客戶誠實
+
+【感恩 T】  時時保持感恩，感謝員工努力與付出、感謝客戶信任與支持
+
+【溫暖 W】 重視包容與同理心，站在客戶角度思考體貼需求，員工間彼此關懷致力提升幸福感
+
+【創新 I】   資訊技術不斷更新，持續努力整合應用，提供客戶最新的科技與服務","126              AI人工智慧工程師&後端工程師
+226    全端工程師 Full Stack Engineer
+248          PHP Laravel 網頁後端工程師
+Name: job_name, dtype: object","126    台北市
+226    台北市
+248    台北市
+Name: company_addr, dtype: object"
+"一騰資訊服務股份有限公司
+                    ","秉持『匯聚人才、創新服務、專業品質』為經營理念，以人才發展為基礎，架構創新技術服務流程，組織專業團隊提升交付品質，成為客戶信賴的長期合作夥伴!
+
+公司重視員工長期職能發展，創新業界規畫數位生涯發展平台、打造金融科技(Fintech)/雲端計算(Cloud)/大數據分析(Big Data) 等相關領域黃金履歷計畫，創造有溫度的服務體驗。
+
+員工的成長才是公司的成長，團隊的專業能力才是公司的核心價值及市場競爭力！
+","72    培訓軟體工程師(Java)
+Name: job_name, dtype: object","72    台北市
+Name: company_addr, dtype: object"
+"上尚文化企業有限公司
+                    ","我們是很不一樣的科學教育家，
+我們認同生活就像實驗室，
+科學應該是發生在任何時間地點，
+而非只是考試的分數結果，
+藉由遊戲及動手做喚起孩子對科學的興趣，
+激發孩子探索的本能，增加自我信心，
+然而，每位孩子都是獨一無二，
+為了協助孩子找到自己的方向，
+我們的課程融合科學及才藝，
+有機會讓孩子多元學習，
+盡早發覺自己的專才方向，
+展開美麗的人生，
+這，
+就是上尚文化存在的使命!
+
+
+上尚文化經營理念
+一、堅持誠信原則
+二、專注於「專業科學教育」本業
+三、放眼東亞與中國市場，全球化經營
+四、著眼長期策略，追求永續理念
+五、讓孩子愛上科學是我們的責任
+六、專業熱情是我們工作與服務的原則
+七、挑戰各方面的創新，確保企業高度活力
+八、營造有趣、富挑戰且快樂的工作環境
+九、高度開放型管理模式
+十、兼顧員工福利與公司權益，取諸社會、還諸社會","136    程式設計老師/程式設計研發講師
+Name: job_name, dtype: object","136    新北市
+Name: company_addr, dtype: object"
+"中央研究院資訊科學研究所
+                    ",資訊科學等相關研究,"39                           專任研究助理(馬偉雲老師實驗室中研院詞庫小組CKIP)
+104                                   專、兼任研究助理（吳廸融老師實驗室）
+106             工程師(博士後研究人員)－後量子密碼學實驗室(楊柏因老師、周彤老師、鐘楷閔老師)
+138    Research assistant (full time or part time) (D...
+161    博士後研究人員－量子科技專案計畫徵才(鐘楷閔老師、楊柏因老師、陳郁方老師、林瀚仚老師、鄭皓中...
+165                     專任或兼任研究助理(中研院詞庫小組CKIP(馬偉雲老師實驗室))
+172                                 專、兼任研究助理（古倫維老師老師實驗室）
+204                                      博士後研究(葉彌妍老師實驗室)
+205                           助理工程師(研究資料寄存所 (depositar))
+207                工程師(資訊人員)－後量子密碼學實驗室(楊柏因老師、周彤老師、鐘楷閔老師)
+255            工程師(專案研究工作人員)－後量子密碼學實驗室(楊柏因老師、周彤老師、鐘楷閔老師)
+Name: job_name, dtype: object","39     台北市
+104    台北市
+106    台北市
+138    台北市
+161    台北市
+165    台北市
+172    台北市
+204    台北市
+205    台北市
+207    台北市
+255    台北市
+Name: company_addr, dtype: object"
+"亞洲準譯股份有限公司
+                    ",感染病原基因定序檢測,"186    生物資訊工程師
+Name: job_name, dtype: object","186    新北市
+Name: company_addr, dtype: object"
+"亨泰光學股份有限公司
+                    ","董事長吳泰雄先生自集團創立至今，為視光業界貢獻心力近五十年，期間不但持續引進國外最新技術與設備，致力於創新與研發各種硬式隱形眼鏡，亦代理國外知名之眼科醫療器材及用品，對於推廣專業視光教育及驗配技術不遺餘力，成為國內硬式隱形眼鏡業界的翹楚。 
+以前瞻的精密設備、創新的研發技術、嚴謹的品質管理、貼心的專業服務，為視光從業人員和消費者提供最優質的硬式隱形眼鏡。
+
+核心價值(Core values)
+誠信、品質、服務
+
+願景(Vision)
+成為亞洲最大最專業的特殊隱形眼鏡供應商
+
+使命(Mission)
+提升人們視覺效能、共同創造美好視界
+","155    機械工程師（製程研發端）
+Name: job_name, dtype: object","155    新北市
+Name: company_addr, dtype: object"
+"倚強科技股份有限公司
+                    ","我們給予客戶最完美的服務品質，提供客戶最安心的品質保障。我們將每位客戶都視為自己的夥伴，從研發、設計到實體的營銷，重視客戶的想法與感受，建立長久的合作關係，成為ㄧ起展望國際市場的策略夥伴。
+
+【以人為本 共創美好】
+倚強重視每位夥伴的專長與潛力，不分你我，把每位夥伴都當作一起打拼的朋友。我們以團隊精神為導向，不畏懼新的思想與想法，透過共享的獎勵制度，引導夥伴投入熱情，創造商機，為績效全力以赴。開創人生高峰，共創美好未來，歡迎加入我們的菁英團隊。","252    軟體研發工程師-SW Engineer
+Name: job_name, dtype: object","252    台北市
+Name: company_addr, dtype: object"
+"兆派娛樂科技有限公司
+                    "," 打造「幸福」企業
+創造互聯網
+相關遊戲平台
+短視頻平台
+遊戲開發
+
+
+經營理念 → 創造科技新世代，延展世界版圖！
+●工作態度 - Attitude
+●團隊精神 - Spirit
+●善於溝通 - Communication
+●工作效率 - Work efficiency
+創造客戶、員工、股東三方皆贏之永續經營。","238    系統工程師
+Name: job_name, dtype: object","238    台北市
+Name: company_addr, dtype: object"
+"兆豐國際商業銀行股份有限公司
+                    ",存款、放款、進出口押匯及託收、境外金融、信託及投資、消費金融、財富管理等一般銀行業務，以及經由中央主管機關核准辦理之其他有關業務。,"260    數據分析人員
+Name: job_name, dtype: object","260    台北市
+Name: company_addr, dtype: object"
+"全聯福利中心_全聯實業股份有限公司
+                    ","價格最放心-所有商品訂價必須比市場行情便宜20%，讓消費者對價格有感，傳遞「省錢也是美學」消費概念
+品質最安心-所有商品以「最嚴謹的把關、最高規格的作業」，才能把最實在的商品提供給消費者
+開店最用心-所有門市以「最便利的購物地點」為出發點，不斷優化門市經營，不論都會城市、偏遠鄉鎮，成為社區的福利中心。
+服務最貼心-所有人員以「最貼心、富有人情味的服務」，成為社區的好鄰居。
+
+
+","209    線上事業部-Px Pay技術組-雲端架構師  Cloud Architect
+Name: job_name, dtype: object","209    台北市
+Name: company_addr, dtype: object"
+"剛鈺股份有限公司
+                    ","智慧停車解決方案(Total Solution)
+商用無人機
+自動導航系統
+知識管理平台
+智能產品開發","85    軟體工程師
+Name: job_name, dtype: object","85    新北市
+Name: company_addr, dtype: object"
+"創順科技有限公司
+                    ","We develop and shape your life!
+
+UNNO Technology 是一個能自我調節、自我反省的團隊，因為我們深信最佳的架構、需求與設計皆來自於能自我組織、自律的團隊，引導夥伴在自由的氛圍中，不斷茁壯成長。我們同時期許自己不因產品上線交付而自滿，並持續追求優越的技術與優良的設計，不斷強化產品品質。","254    Quality Assurance Engineer
+Name: job_name, dtype: object","254    台北市
+Name: company_addr, dtype: object"
+"勢流科技股份有限公司
+                    ","勢流科技自成立以來, 即著重於電腦輔助工程(Computer Aided Engineering, CAE)的技術趨勢和市場潮流。利用最佳之軟體工具, 提供觀念領先, 技術導向之最完整之工程解決方案 。","52     MIS專員
+259    MIS專員
+Name: job_name, dtype: object","52     台北市
+259    台北市
+Name: company_addr, dtype: object"
+"台灣三星電子股份有限公司
+                    ","以人才和技術為基礎
+創造最佳產品和服務
+為人類社會做出貢獻
+
+
+[注意:請勿向台灣三星透露任何過去從您工作的公司中所知悉的營業機密。在您面試過程中，如所提問的問題涉及到您工作過的公司營業機密時，您有權拒絕回答。]","89     Display Driver IC Digital Designer(小尺寸)
+264               Design Verification Engineer
+Name: job_name, dtype: object","89     新竹縣
+264    新竹縣
+Name: company_addr, dtype: object"
+"台灣亞德諾半導體股份有限公司
+                    ","主要包括一般性、標準功能的線性IC、訊號混合IC（Mix Signal IC)、系統IC、最新數位訊號處理器的IC(DSPs)、D/A & A/D 轉換器(Converter)及一些高密度結合具特定功能之積體電路(ASIC)。ADI是轉換器供應商的龍頭,在全球的資料轉換器市場中，以47.5%的佔有率居於世界第一的領先地位。","47     高級韌體工程師 Senior Engineer, Firmware (Battery and...
+90     Senior Engineer, Product Applications (Battery...
+158    (2023 New College Grad) Applications Engineer(...
+214    (2023 New College Grad) Applications Engineer(...
+Name: job_name, dtype: object","47     台北市
+90     台北市
+158    台北市
+214    台北市
+Name: company_addr, dtype: object"
+"台灣富士通科技股份有限公司
+                    ",Enterprise Server,"190    【FTTCL】Software Developer - FH-2459
+Name: job_name, dtype: object","190    台北市
+Name: company_addr, dtype: object"
+"台灣愛立信股份有限公司
+                    ","1.專業進取  (Professionalism) 
+秉持客戶及目標導向的精神，提供全球客戶最具品質及競爭力的產品及服務	
+2.尊愛至誠  (Respect)
+營造開放自在的工作氣氛，讓人與人之間的關懷及信任得以發揮
+3.鍥而不捨  (Perseverance) 
+以堅毅的態度面對變動的外在環境，鼓勵技術的創新及改革，成就長遠的目標","92                   DevOps Engineer
+134    Data Engineer 開發運維(DevOps)工程師
+Name: job_name, dtype: object","92     新北市
+134    新北市
+Name: company_addr, dtype: object"
+"台灣歌爾泰克有限公司
+                    ",GoerTek 歌爾集團致力於建設和鞏固「品質、可靠、創新」的企業形象和企業文化。強調團隊合作精神、鼓勵組織互動；為員工提供自我發展和自我價值實現的平台，為客戶提供高利潤及高效益的產品發展。,"234    圖像演算法工程師/主管
+Name: job_name, dtype: object","234    台北市
+Name: company_addr, dtype: object"
+"台灣經濟新報文化事業股份有限公司
+                    ","
+
+▋ TEJ - 解決方案  ▋   https://www.tej.com.tw/solution
+
+§   ◤ESG永續◢  §  ◤ 信用風險 ◢  §  ◤ 法遵科技 ◢  §
+
+§  ◤企業商情◢  §   ◤ 投資分析 ◢  §  ◤ 評價分析 ◢  §
+
+
+▋ TEJ - 資料銀行  ▋   https://www.tej.com.tw/dataBank
+
+◤ 企業營運資訊 ◢
+　∴ 公司基本資料及重大訊息
+　∴ 董監事大股東、股本變動及股利政策
+　∴ 企業投資資訊、月營收及產銷組合
+◤ 企業財務資訊 ◢
+　∴  IFRS財務報表 - TEJ獨家！
+◤ 證券金融市場資訊 ◢
+　∴ 股票市場
+　∴ 基金市場
+　∴ 債券市場
+　∴ 衍生性金融商品債券市場
+◤ 總經及商品原物料 ◢
+　∴ 總經及商品原物料
+
+
+---------------------------------------------------------------
+
+▋ TEJ - 金融資料分析、金融新知、財金研究院、知識集    ▋
+
+▲   Medium  ▲ Facebook  ▲Instagram ▲ Linkedin  ▲ Youtube ▲ 
+
+- TEJ Linktree -  https://linktr.ee/tej87681088
+
+","263    ESG專案資料分析_副研究員
+Name: job_name, dtype: object","263    台北市
+Name: company_addr, dtype: object"
+"台達電子工業股份有限公司 _DELTA ELECTRONICS INC.
+                    ","【企業文化】
+◎創新：有效創新 成功實現
+◎品質：精益求精 追求卓越
+◎敏捷：洞察趨勢 速掌新機
+◎團隊合作：全球整合 達成共贏
+◎顧客滿意：預知需求 超越期待","220    NLP Engineer _Delta Research Center (HsinChu)
+Name: job_name, dtype: object","220    新竹市
+Name: company_addr, dtype: object"
+"域動行銷股份有限公司
+                    ","域動行銷以熱情、活力、專業，展現我們對數位媒體領域的強烈企圖心，並以「數據」為發展主軸
+掌握最新數位趨勢，早一步提供廣告主最適當的數位媒體解決方案。
+
+數位媒體每分每秒都在改變，當數位多媒體已經是你生活重心時，你還在等什麼？
+域動秉持著開放與分享的態度，召集和我們一樣對數位媒體懷抱熱忱的你，讓我們一同運用大數據的分析智慧，讓行銷變得精采、有趣吧！
+歡迎一起加入這個正在浪潮上的產業，和我們一起乘風破浪！
+
+期待未來．期待精采
+","87              【產品處】數據應用產品 (副總監/經理/副理)
+211    【產品處】AI工程師/資料科學家/機器學習工程師 (可遠端作業)
+Name: job_name, dtype: object","87     台北市
+211    台北市
+Name: company_addr, dtype: object"
+"基龍米克斯生物科技股份有限公司
+                    ",本公司秉持企業經營一貫之誠信原則，並加強專業知識為客戶服務。,"73    生物資訊工程師
+Name: job_name, dtype: object","73    新北市
+Name: company_addr, dtype: object"
+"大鵬科技股份有限公司
+                    ","1. 智慧家庭安全系統（smart home security systems）：智慧居家保全閘道器（gateway）及相關配件，如無線熱感及煙霧偵測器、PIR感測相機、無線門窗感應器、水位預警器等
+2. 家庭自動化系統（home automation systems）：溫度顯示、家電控制及燈光控制等配件，如智慧插座及情境調光控制器等。
+3. 智慧居家長照產品（smart care systems）：無線緊急通報系統（medical alarm systems）及相關配件，如緊急按鈕、跌倒偵測器、GPS定位追蹤器等。
+4. 智慧城市與物聯網配件（smart city & IoT devices）
+5. 智慧居家保全／居家照護線上平台建置服務：使用者可透過電腦或手機app連線至平台，隨時隨地以更便利的方式來操作智慧家庭系統。
+","159    軟體測試工程師
+Name: job_name, dtype: object","159    台北市
+Name: company_addr, dtype: object"
+"天鉞電子股份有限公司
+                    ",我們秉承“科學發展觀”，在掌握數位無線核心技術的前提下，致力於產品的不斷更新和升級。在不斷追求高品質的同時，注重產品的環保性，努力做一個環境友好型企業。目前在安防市場競爭日益激烈的環境下，我們的產品在歐美、日本、澳大利亞等幾十個國家和地區有著極佳的銷售業績。,"194    雲端服務工程師
+Name: job_name, dtype: object","194    新北市
+Name: company_addr, dtype: object"
+"太米股份有限公司
+                    ","Rosetta.ai 為時尚電商的 AI 美學顧問。
+我們挖掘並分析消費者的喜好，幫助時尚電商了解他們的顧客，建立並經營有效顧客關係，帶來長期的銷售成長。
+
+Rosetta.ai helps fashion merchants understand what consumers want so they can make authentic personal connections that drive sales and long-term growth.","86    Software Engineer, Backend後端工程師
+Name: job_name, dtype: object","86    台北市
+Name: company_addr, dtype: object"
+"奕力科技股份有限公司
+                    ","持續創新：
+微觀細節並綜觀全局
+鼓勵合理的實驗嘗試
+持續的自我執問挑戰
+
+速度和彈性：
+明確的目標/簡單的流程
+挑戰極限
+授權和團隊分工
+
+客戶導向：
+整個公司的營運為客戶導向
+持續的討論了解整個產業的供應鏈
+持續了解客戶的需求","26    D-08 數位IC設計工程師  (INT-OLED2)
+68    S-04 Analog CAD  資深工程師/技術課長
+Name: job_name, dtype: object","26    新竹縣
+68    新竹縣
+Name: company_addr, dtype: object"
+"安勤科技股份有限公司
+                    ","【願景Vision】
+成為嵌入式系統研發、製造、整合性服務的領導廠商
+Become a leading embedded solutions provider with outstanding development, manufacturing, and integration services
+以專業與獲利能力成為受人尊敬的一流國際企業
+Become a reputable international enterprise by demonstrating professionalism and profitability
+
+【使命Mission】
+提供各式embedded platform(標準品)及ODM(客製化)服務，並持續數位轉型以深耕醫療照護、智慧製造、智慧零售與智慧交通等應用市場
+Provide our customers with a complete range of Embedded Platforms, Systems and ODM services , and accelerate digital transformation to promote Digital Healthcare, Smart manufacturing, Smart Retail, and Intelligent Transportation.
+
+【文化Culture】
+積極、效率、快速
+互信、互助、合作
+重視全員優良工作品質
+重視團隊優質文化表現
+實事求是
+勇於承擔責任
+","187    軟體研發工程師
+Name: job_name, dtype: object","187    新北市
+Name: company_addr, dtype: object"
+"安華聯網科技股份有限公司
+                    ","安華聯網不斷的挑戰新的資安檢測技術與發掘新的解決方案，除協助產業提升資安品質外，並期許為一個在資安領域具備專業、信賴、品質以及創新的國際公司。我們歡迎熱愛創新與勇於挑戰的夥伴，一起共同成長。
+ 公司使命 - 創造更安全的連網環境
+ 公司願景 - 全球資安檢測領導品牌","71      總管理處-網路維運與系統管理工程師
+221    [112年度研發替代役]-資安工程師
+Name: job_name, dtype: object","71     新北市
+221    新北市
+Name: company_addr, dtype: object"
+"展匯科技股份有限公司
+                    ","『公開透明、效率經營、全員參與』
+
+我們秉持著『公開透明、永續經營』的信念，持續努力提升企業的獲利以及穩定的營運。偕著我們追求卓越、創意無限的核心職能，我們竭誠歡迎志同道合的卓越人才加入我們的團隊。
+
+我們重視員工的身心平衡發展，重視團隊共識，提供多樣化的教育訓練及團體活動，除了有良好明亮的工作環境，我們也提供優質的學習空間。每年舉辦戶外活動、家庭日等，大樓內部即設有小型健身房、瑜珈教室等等，讓同仁在投入工作之餘，仍可活動筋骨、平衡身心。 
+
+竭誠歡迎優秀的朋友一起加入展匯科技股份有限公司的工作行列。","84     (研發)影像軟韌體工程師/高級工程師
+100           (研發)AI資料科學家
+114           (研發)AI模型工程師
+Name: job_name, dtype: object","84     台北市
+100    台北市
+114    台北市
+Name: company_addr, dtype: object"
+"展達通訊股份有限公司_群光集團關係企業
+                    ","X	Transmission：傳輸
+A	Access：存取
+V	Video/Voice：影像/ 語音
+I	Internet：網際網路","13    NPI軟體工程師 (台北/新竹)
+Name: job_name, dtype: object","13    新北市
+Name: company_addr, dtype: object"
+"庚芯科技股份有限公司
+                    ","．具競爭力的市場價格
+．創新學習不設限
+．客戶滿意優先 ","184    嵌入式 Linux 軟韌體開發工程師
+Name: job_name, dtype: object","184    新北市
+Name: company_addr, dtype: object"
+"微風廣場實業股份有限公司
+                    ",求新 求變 永不放棄,"4                   微風精品線上_資深電商行銷企劃/數據分析專員
+213                 微風精品線上_資深電商行銷企劃/數據分析專員
+256    微風數位時代-軟體測試工程師 Software QA Engineer
+Name: job_name, dtype: object","4      台北市
+213    台北市
+256    台北市
+Name: company_addr, dtype: object"
+"愛豐樂有限公司
+                    ",,"177    軟體工程師
+Name: job_name, dtype: object","177    新北市
+Name: company_addr, dtype: object"
+"慧榮科技股份有限公司_SMI
+                    ","務實：
+我們穩健經營，專注本業，精益求精，以認真的態度透過執行力將每項領域都做到最好。
+
+誠信：
+以誠信為本，對於客戶及員工我們在互信的基礎上，建立誠實、互信與互重的伙伴關係。
+
+創新：
+挑戰自我，以持續創新精神，提升企業核心競爭力。","164      【暑期實習】ASIC工程師
+231        【暑期實習】韌體工程師
+244    【暑期實習】設計系統驗證工程師
+257      【暑期實習】韌體架構工程師
+Name: job_name, dtype: object","164    新竹縣
+231    新竹縣
+244    新竹縣
+257    新竹縣
+Name: company_addr, dtype: object"
+"慧誠智醫股份有限公司
+                    ",臺灣擁有世界級的 ICT 能量與優質的臨床醫療，兩強結合必然是下一個高度成長的新產業。 產業的快速發展，讓過去賣硬體附贈軟體的年代已經過去。新的時代是由產業痛點來定義服務、服務定義軟體、軟體尋找相宜的硬體當成載體來提供服務平台。 臺灣需要下一波產業機會來持續發展，我們提供國際經營舞台給有志投入醫療資通訊應用的優質人才，歡迎加入一起奮鬥 !,"19     【2023研發替代役/預聘】前端網頁工程師(北區)
+56                 後端 Python 工程師
+202                  後端 Java 工程師
+Name: job_name, dtype: object","19     台北市
+56     台北市
+202    台北市
+Name: company_addr, dtype: object"
+"慧達科技股份有限公司
+                    ","
+","64    IC晶片測試開發工程師
+Name: job_name, dtype: object","64    新竹縣
+Name: company_addr, dtype: object"
+"振樺電子股份有限公司
+                    ","永續發展—
+永續發展是振樺電子核心企業目標。振樺電子期待能衡平與各利害關係人間的利益，致力提升品牌價值與創造穩健及厚實之企業能力，以奠定永續發展之基石。
+
+誠信經營—
+誠信經營為振樺電子重要企業文化，惟有企業全體秉持及堅守誠信，方能創造並建立良善企業文化，落實公司治理。
+
+市場先機—
+振樺電子重視客戶關係與了解客戶(know your customer)、持續掌握市場需求，建立系統化管理機制，以精進服務品質、創新產品，應用於顧客服務，提升顧客滿意度，受到顧客青睞。
+
+科技創新—
+科技創新是振樺電子的核心價值之一，我們透過創新研發，建立優勢，執行有價值且多元創新，創造更人性化的使用介面及技術功能，以使用者需求為中心，致力於研發、專利取得等核心競爭力。
+
+堅持品質—
+我們以最佳品質為核心，透過創新建立差異化，為顧客提供最完善、有效率、最值得信賴的產品和技術服務。從規格、研發、設計、製造、資訊管理系統建置、維修和全球運籌支援等都能符合顧客需求的一站式服務。","206    軟體研發工程師
+Name: job_name, dtype: object","206    新北市
+Name: company_addr, dtype: object"
+"數字雲端有限公司
+                    ",數位電視相關產品，Home Gateway、STB、IPTV、VOD、OTT、Interactive TV等系統及產品。同時專注在產品架構定義，覆核設計流程，提供專業建議報告等‧,"93     SI Validation Engineer(身心障礙者投遞專區)
+258               SI Validation Engineer
+261                 交換機軟體開發 - 技術副理/資深工程師
+Name: job_name, dtype: object","93     新北市
+258    新北市
+261    新北市
+Name: company_addr, dtype: object"
+"方探科技股份有限公司
+                    ","不論何時何地，FunTime就是要幫旅行者找到最棒、最需要、最完美的旅遊商品，輕鬆準備每一趟旅程，隨時隨地出發去旅行！
+
+【匯集最多旅遊商品，一次比價就出發】
+FunTime匯集旅程所有旅遊商品，包含機票、訂房、租車、組合式行程。
+在FunTime輸入目的地進行搜尋，輕鬆完成商品比價以及訂購，立刻出發享受精心準備的旅程。
+
+【透明化商品價格、豐富完整旅遊資訊】
+FunTime致力透明化旅遊商品價格資訊，提供旅遊者最便捷的比價、查價服務。
+並透過FunTime「趣旅行」平台，與百位駐站部落客合作，提供最新、最即時的旅遊攻略及資訊。
+
+【貼近消費者旅遊需求，專屬旅遊商品】
+FunTime致力於打造貼近消費者需求的服務體驗，不論目的地為何，我們推薦專屬於你的旅遊商品，讓FunTime幫助你打造一趟獨一無二的旅行。","16    後端應⽤⼯程師
+Name: job_name, dtype: object","16    台北市
+Name: company_addr, dtype: object"
+"明基電通股份有限公司
+                    ","我們擁有『實現科技生活的真善美』的共同願景，並透過『誠信自律』、『熱情務本』、『追求卓越』、『關懷貢獻』四大價值觀來實踐。我們在明基BenQ工作與生活，都依據企業文化的精神來執行。我們都相信，好的企業文化，能夠影響同仁的處事思維，讓良善的想法與行動不斷向外影響、擴散。
+
+我們秉持著以下企業經營理念並確實履行、和廠商共同提高我們的附加價值與競爭力、努力滿足顧客的需求，這些所作所為，都是為了讓自己成為永續經營的科技企業。
+
+• 堅持誠信、正直的品格操守，力行專業、效率的工作態度
+• 打造熱情、活力、富挑戰性的環境，使員工樂在工作
+• 以創新來確保我們的競爭優勢
+• 國際化的思考與經營，放眼全球市場
+• 回饋社會，善盡企業公民責任","33                       Windows軟體工程師【明基BenQ雲端創新中心】
+145                          後端雲系統工程師【明基BenQ投影產品事業】
+216    Software Technical Manager【明基BenQ Home WiFi】
+Name: job_name, dtype: object","33     台北市
+145    台北市
+216    台北市
+Name: company_addr, dtype: object"
+"星至澄資訊有限公司
+                    ","1.要成為使用者最信任的夥伴 
+2.要提供客戶最友善的操作介面
+3.要和我們的客戶一同成長
+4.要替每個客戶提供最佳的方案
+5.要為社會公益盡一份心力","21        網站前端工程師
+150    PHP程式設計師助理
+Name: job_name, dtype: object","21     台北市
+150    台北市
+Name: company_addr, dtype: object"
+"晴仁數位文化有限公司
+                    ","晴仁數位 
+協助企業申請政府補助，
+為企業規畫企業內訓課程；
+協助青年職涯發展、青年創業輔導
+為轉職及待業青年，提供職前訓練，
+增加個人競爭力，為下一份工作做最好努力。","154    資訊類 專職講師
+Name: job_name, dtype: object","154    台北市
+Name: company_addr, dtype: object"
+"東訊股份有限公司
+                    ","身為高科技的通信系統設備製造商，為客戶提供創新應用的加值服務是我們的企業使命，30年的ODM 產品生產經驗 – Made In TECOM。
+
+創新的研發設計製造能力以及多元完整的產品線，從設計到出貨，我們的專業團隊，已與全球通訊產業上下游供應鏈建立緊密的合作關係，零誤差的產品質量，可靠的產品性能，已獲得多數國際通訊大廠的認可。
+
+展望未來，東訊不但期望在全球競爭舞台上保持領先，作為科技產業重要的一員，關心環保議題，我們持續投入於綠能技術的開發，在產品研發技術上發展節能省電以及有效散熱技術，致力資源回收與再重複利用的環保材質，導入無鉛製程以提高生產效率，維護生態環境，節能減碳，是我們應盡的責任。","274    系統三部-軟體研發專案經/副理(新竹)
+Name: job_name, dtype: object","274    新竹市
+Name: company_addr, dtype: object"
+"析數智匯股份有限公司
+                    ","◆ 保險類
+1.勞保
+2.健保
+3.員工團保
+◆ 休閒類
+1.員工旅遊
+2.每月慶生會
+3.電影觀賞
+4.每季部門聚餐
+◆ 制度類
+1.三節禮金
+2.生日禮金
+3.績效獎金
+4.每年員工教育訓練補助
+5.每年免費員工健康檢查(國泰內湖健檢中心)
+
+實際職缺福利請依面試時與公司面談結果為準","22    數據科學顧問
+Name: job_name, dtype: object","22    台北市
+Name: company_addr, dtype: object"
+"橡木桶洋酒股份有限公司
+                    ",管理第一 銷售第二 服務專業 客戶至上,"75    資訊部工程師
+Name: job_name, dtype: object","75    台北市
+Name: company_addr, dtype: object"
+"歐姆佳科技股份有限公司
+                    ","法定項目：
+勞保、健保、週休二日
+
+福利制度：
+獎金類： 年終獎金
+其他類： 員工在職教育訓練","225    通訊演算法工程師
+Name: job_name, dtype: object","225    新北市
+Name: company_addr, dtype: object"
+"殷富資訊股份有限公司
+                    ","▍2020年殷富資訊將從硬體之銷售與維護，致力轉型為以「客戶與解決方案」導向之專業科技服務公司，而在轉型的道路上，公司將秉持以ESG永續發展輔以「與客戶一同成長」的核心理念，發展具「無紙化、數位化、零接觸、人工智能化、PaaS平台」等亮點的產業解決方案與科技服務。
+ 
+▍正在進行的「教育培訓」、「數位轉型」、「組織再造」及「人才招募」四大面向，期許能夠共創一個新殷富 心服務。
+- 與世界接軌，站在科技的前緣，與生態體系共創立基型解決方案。
+- 挑戰自我，與來自科技產業的大導師共學，快速成長。
+更積極的意義，則是代表我們有足夠的能力提供客戶高品質的服務。這樣出色的團隊，更期待您的加入！
+
+","129     高級數據分析師
+200       數據科學家
+269    資深大數據工程師
+Name: job_name, dtype: object","129    台北市
+200    台北市
+269    台北市
+Name: company_addr, dtype: object"
+"法商家樂福總公司_家福股份有限公司
+                    ","家樂福著名醒目的紅藍白企業標誌，看似簡單，卻饒富意義，裡面隱含著家樂福創立至今的企業願景與對消費者的承諾。這個企業標誌第一次出現是在1966年，設計概念取自Carrefour的字首C，C的右端延伸一個藍色箭頭，左端一個紅色箭頭，象徵四面八方的客源不斷向著Carrefour聚集。一旁的Carrefour是家樂福母公司的法文名，在台灣翻譯為「家樂福」是取「家家快樂又幸福」的意思，充分呼應了家樂福的經營理念。
+
+我們的使命是成為市場上現代零售業的標竿，始終保持量販業的領導地位；我們以提供優於同業的服務品質為重點任務，建立消費者購物場所的首選的品牌印象，完整的工作夥伴訓練，培訓成為全方位的經營管理人，不斷地展店提供員工多元暢通的昇遷管道；同時為經營事業的合作夥伴創造最大價值。
+
+家樂福願景：成為食物轉型的領導者
+
+1.【成長並進】
+- 每個人都有成長的機會
+- 實踐夥伴多元化
+- 展現跨團隊的合作優勢
+- ONE Carrefour
+
+2. 【用心服務】
+- 聆聽顧客、顧客優先
+- 提供優質的商品、顧客服務及購物經驗
+
+3. 【簡化作法】
+- 更好、更快、彼此互信
+- 優先任務第一
+- 簡化流程、講究效益的決策
+
+4. 【商業創新】
+- 謙和求知、突破框架
+- 全通路的零售通路、多元管道銷售模式
+- 擁有足夠的能力贏得明日的商業競爭","247    總公司 Cloud Engineer_台北
+Name: job_name, dtype: object","247    台北市
+Name: company_addr, dtype: object"
+"法商法國巴黎人壽保險股份有限公司台灣分公司
+                    ","*在追求企業成功的目標時，法國巴黎人壽絕不做任何品質與道德上的讓步：
+做為一家國際級的保險公司，無論是市場領導地位、優越的公司信譽、卓越的商品或超越客戶期望的專業服務，都是法國巴黎人壽追求的目標；我們堅信品質是傳遞價值與滿足客戶的不二法門，不論是個人還是公司，我們都以最高的道德標準來要求自己。
+
+*優秀的財務表現與業務績效，不僅是法國巴黎人壽的目標，更是讓公司永續經營的唯一法則：
+法國巴黎人壽聲譽永遠值得信賴，我們秉持誠信穩健經營的理念，維持公司財務的安全可靠，並朝向讓客戶信任、讓夥伴引以為傲的保險公司努力。
+
+*法國巴黎人壽首重保戶的權利，其次才是公司的規模：
+法國巴黎人壽將運用法國總公司充足的資源，持續引進歐洲最先進的銀行保險觀念及產品，透過多元化的行銷通路，秉持「直接服務」與「創新求變」之永續理念，以人本關懷的信念為服務宗旨，提供客戶多元化及便捷完整的貼心商品與服務。同時貫徹公司四大價值觀：(1)實現承諾 (Commitment)；(2) 積極創新 (Creativity)；(3)展現企圖 (Ambition)；(4)即時回應 (Responsiveness)，以贏得客戶的支持與信賴，使法國巴黎人壽成為品質最佳的保險公司。","63    財務部 資金管理專員 Capital Management Officer
+Name: job_name, dtype: object","63    台北市
+Name: company_addr, dtype: object"
+"湖水綠簡單生活有限公司
+                    ","『湖水綠在乎您所在乎』
+
+◇	湖水綠落實在員工養成訓練及發展，注重現代化明亮的工作場域並引進醫學中心專業的健康促進設備營造舒適的工作場域，同時使用數位系統完善制度化、善用資訊科技提升絕佳效率。
+◇	湖水綠以”人本”的核心訴求，我們帶著信念，持之以恆提供民眾親切熱誠的服務並且實踐在地深耕經營，擁有優質口碑及形象。
+","237    後端工程師
+Name: job_name, dtype: object","237    新北市
+Name: company_addr, dtype: object"
+"源速科技有限公司
+                    ","《Apeiro8的使命》
+提供給CDN需求者一個具有卓越品質和功能的選項
+成為CDN需求首選品牌
+
+《Apeiro8的承諾》
+我們的提供的CDN解決方案是快速，有效和滿足客戶需求
+
+《Apeiro8的價值觀》
+我們追求專業與技術創新","42    [ K-04 ] 自動化Python後端工程師 Backend Engineer
+Name: job_name, dtype: object","42    台北市
+Name: company_addr, dtype: object"
+"烽泰科技有限公司
+                    ","一、數據為本公司核心，專注於數據庫建置、抓取、篩選、分析，搭配客製化系統軟件，結合AI Deep learning 框架，取代人工干預，精準客觀篩選數據，建置完善database management system。 利用Machine Learning、augmented analytics，進行風險預測及管理，減少不必要時間、人力成本，準確預測趨勢走向，為集團提供有效之商業化決策，達到替集團降本增效之目的，將數據淬鍊為推動企業的金鑰。
+我們的目標將集結各界人才，各自專注於其金融科技領域之餘，亦將團隊合作奉為公司圭臬，仰賴於此，能夠及即時且準確解決集團總部需求並提供完善的全方位服務。
+
+二、烽泰公司持續接受集團位於歐洲、英國、澳洲地區總部的研發團隊進行新科技、新創意的培訓，並持續不斷向最前瞻的金融科技文化學習，例:倫敦、歐洲、矽谷、新加坡、澳洲等地。優秀員工也可直接至國外學習及工作，提升自我能力。
+
+三、與台灣本地頂尖大學/研究所合作，推動產學合作，積極推動菁英人才養成計畫。
+
+四、與世界金融科技中心-英國國內領先的大學/研究所合作，除了增加國際觀、進行技術研討並與世界金融接軌。
+
+","182    金融風險控管高級專員/Risk Operations Specialist
+Name: job_name, dtype: object","182    台北市
+Name: company_addr, dtype: object"
+"生活市集_創業家兄弟股份有限公司
+                    ","Quality Affordable for All
+","123    DevOps/SRE Engineer (DO)
+Name: job_name, dtype: object","123    台北市
+Name: company_addr, dtype: object"
+"矽羽科技有限公司
+                    ",Our highest priority is to satisfy our customer through early and continuous delivery of valuable software.,"0                          Sr. Python/Django 後端工程師
+14                         Jr. Python/Django 後端工程師
+28                    Mid.-Sr. Python/Django 後端工程師
+74    Jr. Front-end Developer, EC SaaS, AWS, 前端工程師
+Name: job_name, dtype: object","0     台北市
+14    台北市
+28    台北市
+74    台北市
+Name: company_addr, dtype: object"
+"社團法人國際氣候發展智庫學會
+                    ","核心理念：氣候服務
+根據世界氣象組織（World Meteorological Organization，簡稱WMO）與《全球氣候服務框架》（Global Framework for Climate Services，簡稱GFCS）之定義，氣候服務（Climate Service）提供氣候資訊協助個人和組織做出智慧的氣候決策，可視為一項決策輔助服務。在全球暖化的趨勢下，氣候服務將扮演愈來愈重要的角色。
+
+國際氣候發展智庫致力發展氣候服務，協助決策者由上而下制定適宜的氣候決策；同時，智庫與地方政府、社區大學等單位合作，積極建構民間的氣候韌性力，由下而上因應氣候變遷及其影響。氣候服務與能力建構（Capacity building）透過智慧解決方案產生交集，並產生在城市的場域之中。
+為了促進氣候服務的供應者與使用者密切交流，氣候服務資訊系統提供關於氣溫、降雨、風力等領域的國家與國際氣候數據，加以模擬和分析，再結合社會經濟變項，針對不同的使用族群做出預測、趨勢和經濟分析與服務，協助公部門與私部門將氣候事件可能造成的風險降到最低。","78    助理研究員
+Name: job_name, dtype: object","78    台北市
+Name: company_addr, dtype: object"
+"神經元科技股份有限公司
+                    ","
+我們重視每一位員工，除了有良好工作環境、也提供學習及成長的空間，歡迎優秀的朋友一起加入神經元科技股份有限公司的工作行列。
+","212    博士級-智慧醫療_人工智慧/機器學習研發工程師 (AI/ML Engineer)，【112年...
+Name: job_name, dtype: object","212    台北市
+Name: company_addr, dtype: object"
+"禾亞數位科技股份有限公司
+                    ","享受工作與生活
+當你踏入 HOYA BIT 後，你會發現我們致力讓員工創造與突破，高成就感與高報酬是讓每一個夥伴全力以赴的原動力!
+
+高度成長與不斷創新
+HOYA BIT 鼓勵每一位的夥伴不斷創新，唯有求新求變才能撼動市場，為此我們也提供每位夥伴學習經費，並透過每個月的內部交流及外部講座提升每一個夥伴的能力！
+
+客戶至上的服務模式
+由於 HOYA BIT 是主打新手友善的加密貨幣交易所，所以我們以積極熱情的精神來服務我們的客戶，並致力透過每一個用戶的回饋來改善 HOYA BIT 的產品及服務，唯有熱情擁抱用戶，才能得到用戶的最高信任。
+
+我們相信越好的人才就需要越少的管理，所以在管理上我們只要求夥伴們尊重會議所決定的專案期程，在過程中若遇任何困難都請「即時提出」、才能「及時解決」，在辦公部份我們也致力打造讓大家都能舒適工作的環境。","132    資深Golang後端工程師
+Name: job_name, dtype: object","132    台北市
+Name: company_addr, dtype: object"
+"禾新數位有限公司
+                    ","追求企業永續經營及以及與員工分享經營成果是我們的經營理念，『品質、專業、創新、顧客導向、追求成果』是我們的核心價值，讓我們一起 Make things simple!
+","45    [ M-03 ] WebSecurity Engineer
+Name: job_name, dtype: object","45    台北市
+Name: company_addr, dtype: object"
+"精睿醫藥科技股份有限公司
+                    ","Our Company Culture 
+
+We work efficiently, communicate efficiently and deliver efficiently! 
+
+EffPha stands for Efficient Pharma Management Corp. From our company name, you can see that
+""Efficient""  is our main focus. We work efficiently, communicate efficiently and deliver efficiently! 
+
+In EffPha, employees are our greatest assets; we believe happier employees lead to better
+ productivity, efficiency and happier clients. We provide employees with happy working
+environment,  and also introduce the Swedish ""fika"" coffee break into our culture, 
+as one of our routine meeting. 
+
+More than just a coffee break, the ""Let’s FIKA!"" time in EffPha is a time to connect, 
+share and relax with colleagues. It is a great time to communicate between departments, between
+ employees and managers, and an efficient and relaxing way to get everyone's views on how 
+a projects run, how a company runs and how to solve problems. 
+
+Join EffPha and fika with us! ","59    臨床數據管理人員 (Clinical Data Analyst)
+Name: job_name, dtype: object","59    台北市
+Name: company_addr, dtype: object"
+"純粹科技股份有限公司
+                    ",我們重視每一位員工，除了有良好工作環境、也提供學習及成長的空間，歡迎優秀的朋友一起加入純粹科技股份有限公司的工作行列。,"183    Backend Engineer後端工程師
+Name: job_name, dtype: object","183    台北市
+Name: company_addr, dtype: object"
+"索爾斯科技有限公司
+                    ","「提供一體式網站服務」是我們優勢，從程式設計優化、SEO設置、視覺導引、使用者體驗、網站維運皆由索爾斯科技全權完成，因此以「提供人性化、帶動企業整體成效之系統」
+
+
+為核心經營主軸，給予客戶全方位網站調整：
+●提供專業維護運營，以及製作系統（Android、IOS，APP整合網站設計）
+●點出客戶未發現的問題，清除Bug
+●減少B2B、B2C的溝通時間
+","101                 系統設計師 System Designer
+168    QA測試工程師 Quality Assurance Engineer
+Name: job_name, dtype: object","101    新竹縣
+168    新竹縣
+Name: company_addr, dtype: object"
+"紫式大數據決策股份有限公司
+                    ",本公司的創辦願景是基於半導體產業發展的經驗，效法IC設計服務業，推動「智能分析服務產業化」，培養產業醫生協助更多難以內建數據分析團隊的中小企業和傳統產業，也能順利轉型升級，維持在各個藍湖市場的相對競爭優勢，使台灣產業生態系統，繼續維持多元穩健發展，治病於未發。,"43                          智慧製造演算法工程師
+112    資料科學工程師 / Data Science Engineer
+115                              軟體工程師
+156                          製造資訊系統工程師
+169                              資料工程師
+Name: job_name, dtype: object","43     新竹市
+112    新竹市
+115    新竹市
+156    新竹市
+169    新竹市
+Name: company_addr, dtype: object"
+"統一超商股份有限公司
+                    ","我們的願景：「台灣第一、世界一流」
+我們的使命：「成為最卓越之零售業者；提供生活上最便利之服務；善盡良好社會公民之責任」
+我們的定位：「打造安心、便利、歡樂的商圈生活中心，成為便利的創新者」","20    統一超商數據分析師 Data Analyst (OPEN POINT)
+Name: job_name, dtype: object","20    台北市
+Name: company_addr, dtype: object"
+"經緯智庫股份有限公司 (MGR Consulting Co., Ltd.)
+                    ","MGR秉持著誠信正直的企業理念，堅守每個承諾及不負企業所託，並與客戶站在同一陣線，設身處地為企業打造一流人才團隊，MGR將不斷追求卓越，持續成為 企業最有價值之策略夥伴。
+1.誠信及正直：MGR堅守誠信正直的企業價值觀。
+2.承諾及奉獻：MGR不負企業的每個委託及請求。
+3.品質及專業：MGR提供深具品質及最專業的服務。","2                             資料分析師 (869)
+201    Sr. DBA (資料庫管理師/資料分析師)- 外商筆電大廠 853
+Name: job_name, dtype: object","2      新北市
+201    台北市
+Name: company_addr, dtype: object"
+"美商鄧白氏股份有限公司台灣分公司
+                    ","We will be one global company delivering indispensable content through modern channels to serve new customer needs. 
+Be Global, Be Modern, Act from the outside in!","121          Project Development Manager
+135    Senior Advisor, Product Solutions
+250                         Data Analyst
+Name: job_name, dtype: object","121    台北市
+135    台北市
+250    台北市
+Name: company_addr, dtype: object"
+"美思科技股份有限公司
+                    ","【美思科技願景】期待透過智慧科技改善醫療產業，提供更安全的醫療環境
+
+【美思科技使命】致力於智慧醫療器材開發，提供有價值的醫療資訊，幫助加速醫療照護及臨床決策
+
+媒體曝光
+
+鉅亨網:https://news.cnyes.com/news/id/4941839
+鏡周刊:https://www.mirrormedia.mg/story/20210813ind005/
+數位時代:https://www.bnext.com.tw/article/58541/deep-tech-alot
+台灣真行:https://www.youtube.com/watch?v=VBncA0MjgoY","15    生醫訊號演算法工程師 Senior Algorithm Engineer 【南軟-智慧醫療】
+Name: job_name, dtype: object","15    台北市
+Name: company_addr, dtype: object"
+"群望科技股份有限公司
+                    ","培養人才，誠信永續，專注創新！
+","127    演算法工程師
+Name: job_name, dtype: object","127    新竹縣
+Name: company_addr, dtype: object"
+"義傳科技股份有限公司
+                    ","義傳自成立以來，始終秉持誠實、創新、分享、追根究底的精神，強調與員工利潤共享並創造更美好的未來。
+
+今後我們將致力於研發更多具經濟效益、實用性的通訊產品，為社會創造更便利的網路環境。","6      5G Embedded Linux Network Software Technical  ...
+103    5G Embedded Linux Senior Software Engineer 嵌入式...
+215    5G Embedded Linux Software Engineer 嵌入式Linux系統...
+Name: job_name, dtype: object","6      新竹市
+103    新竹市
+215    新竹市
+Name: company_addr, dtype: object"
+"聚達系統股份有限公司
+                    ","◆ 幫助客戶轉型進入數位化的新未來，以客戶成功為優先來開發創新的產品與服務。
+◆ 致力於為客戶提昇資訊技術整體營運成效、成為客戶最佳策略合作夥伴。
+◆ 重視每位同仁職涯發展與福利，營造優質工作環境。
+◆ 創造公司獲利與員工共同利潤分享。","17     Red Hat OpenShift / K8S 【技術顧問/工程師】 (台北)
+267    Red Hat OpenShift / K8S 【技術顧問/工程師】 (新竹)
+Name: job_name, dtype: object","17     台北市
+267    新竹市
+Name: company_addr, dtype: object"
+"聯成電腦有限公司(聯成電腦/聯成外語)
+                    ","願景：期許成為台灣資訊人才及電腦技能培訓的推手。 
+使命： 讓每一位聯成學員都學到一技之長，並以此找到理想的工作。
+
+
+","223    Python課程講師-永和認證中心
+Name: job_name, dtype: object","223    新北市
+Name: company_addr, dtype: object"
+"臺北市私立何氏語文短期補習班
+                    ",美語補習班,"228    遊戲程式設計老師 (台北市文山區)
+Name: job_name, dtype: object","228    台北市
+Name: company_addr, dtype: object"
+"臺北農產運銷股份有限公司
+                    ",果菜批發市場,"25    資訊人員
+Name: job_name, dtype: object","25    台北市
+Name: company_addr, dtype: object"
+"艾威科軟體股份有限公司
+                    ", 以大數據，商業智慧分析為主要核心，提供SAP 軟體產品相關的顧問服務。服務的公司包含100百大企業，包含高科技，零售，化學，傳產等都是我們的客戶群。,"173    GCP Data Engineer
+179       SAP CRM, CX 顧問
+Name: job_name, dtype: object","173    台北市
+179    台北市
+Name: company_addr, dtype: object"
+"艾新科環保材料有限公司
+                    ","專業：10年以上的全方位散熱解決方案設計專家。
+環保：奈米碳粉體獨一無二專利配方，環保可回收範圍污染。
+創新：跟進社會趨勢，努力進行技術創新，即時提供有吸引力之商品，成為業界的領導者。
+共贏：合理價格、和客戶一起成長。永續經營，共創輸贏。
+","5         演算法工程師
+131        熱流工程師
+170        後端工程師
+188    專案管理系統分析師
+Name: job_name, dtype: object","5      台北市
+131    台北市
+170    台北市
+188    台北市
+Name: company_addr, dtype: object"
+"艾肯娛樂股份有限公司
+                    ","使命：
+Yes, I can！
+生存開端~ Yes, I can！ 不要小看自己的力量！
+工作是生活的一部分~ Yes, you can！ 認識自己的價值所在！
+生命的意義~ Yes, we can！ 傳承並創造產業正面的影響力！
+
+願景：
+成為遊戲娛樂產業的領導品牌
+
+核心價值：
+誠信、熱情、團結~莫忘使命初衷
+承諾、信賴~提供顧客專業產品與服務
+創新、執行~用創新加值及實現夢想","7    L-QA測試工程師
+Name: job_name, dtype: object","7    台北市
+Name: company_addr, dtype: object"
+"艾超科技有限公司
+                    ","聚焦精準>速度服務
+團隊合作>共創成果
+","99                       SRE_資深網站可靠性工程師
+171    <待遇優良> Operations Engineer 運維工程師
+Name: job_name, dtype: object","99     台北市
+171    台北市
+Name: company_addr, dtype: object"
+"菜蟲農食股份有限公司
+                    ",透過網路與數據技術，優化產地到餐桌的供應，帶來台灣新農業的革新。,"149    [HQ - Taipei]  AI Integration Engineer, Tech &...
+Name: job_name, dtype: object","149    台北市
+Name: company_addr, dtype: object"
+"華碩電腦股份有限公司
+                    ","1.培育、珍惜、關懷員工,讓華碩人盡情地發揮最高潛力。
+2.堅守誠信、勤儉、崇本、務實的正道。
+3.無止盡地追求世界第一的品質、速度、服務、創新、成本。
+4.躋身世界級的綠色高科技領導群,對人類社會環境真正做出貢獻","105                          RD21071 機器學習開發工程師
+133    RD20169 Senior Data Architect (資深資料架構師)
+147       RD20156 SLAM Engineer (機器人 SLAM 工程師)
+Name: job_name, dtype: object","105    台北市
+133    台北市
+147    台北市
+Name: company_addr, dtype: object"
+"萬達人工智慧科技股份有限公司
+                    ","萬達人工智慧以適地性娛樂為出發，結合 VR+AR 沉浸式體驗、餐飲消費、虛擬人物互動等功能，建立 Wonder IP的用戶人數，再透過手機 APP 提供的娛樂、遊戲、社交及客製化等功能，擴大 IP 的附加效應，建立一個新的商業模式與平台，並可隨著科技的持續進步，持續引入最新的科技及人工智慧技術來保持先驅者的業界領先地位，創造公司的價值。
+• 結合MR、AR、VR、人工智慧， 新娛樂生活趨勢發展出人與虛擬角色的虛實整合社交平台 。","44     自然語言處理工程師 / NLP engineer . Natural Language Pr...
+96               Technical Director/ Technical Artist JD
+107                                          雲端AI深度學習工程師
+119                 資深後端工程師 / Senior Go Backend Engineer
+142                                            AI深度學習工程師
+197        資深 AI深度學習工程師 Senior Machine Learning Engineer
+241    資深 自然語言處理工程師 / Senior NLP engineer. Natural La...
+Name: job_name, dtype: object","44     台北市
+96     台北市
+107    台北市
+119    台北市
+142    台北市
+197    台北市
+241    台北市
+Name: company_addr, dtype: object"
+"藍天電腦股份有限公司
+                    ",誠信踏實、顧客滿意,"242    (NB)資訊系統應用主任工程師
+Name: job_name, dtype: object","242    新北市
+Name: company_addr, dtype: object"
+"資通電腦股份有限公司
+                    ","誠信 服務 品質 創新
+做好對客戶的承諾","8    財務工程研發工程師(R4)
+Name: job_name, dtype: object","8    台北市
+Name: company_addr, dtype: object"
+"遊戲橘子數位科技股份有限公司
+                    ",「探索網路生活的無限可能」，以成為「台灣全生態網路企業」為目標。,"10     Machine Learning 機器學習工程師_0106*
+62             2023橘子集團快速面談專區_機器學習工程師
+67                         資料分析師_0197
+137                           資深數據分析師
+180    Machine Learning Engineer_0066
+192                    AI演算法工程師_0220*
+219    Machine Learning 機器學習工程師_0106*
+273                   主任/資深系統工程師_2338
+Name: job_name, dtype: object","10     台北市
+62     台北市
+67     台北市
+137    台北市
+180    台北市
+192    台北市
+219    台北市
+273    台北市
+Name: company_addr, dtype: object"
+"遠傳電信股份有限公司
+                    ","遠傳以「生活有遠傳，溝通無距離，人生更豐富，地球更永續。 」作為公司願景，致力於提供優質的客戶體驗及創新的應用服務，並且承諾以創新及熱情超越客戶期望、成為員工首選企業、創造股東最高價值、致力於企業社會責任及環境永續發展。
+
+我們以「關懷、誠信、敏捷、創新、協作」為核心價值，並以「精實、轉型、再成長」的精神自許，以在快速變動的環境中維持組織的靈活機敏，擁抱數位轉型的最大契機。
+
+遠傳電信已從電信公司轉型成新經濟科技服務公司。
+我們期許，面對消費者：遠傳連結你我的世界，讓它更便利、更安全、更溫暖、更永續；面對企業：以與時俱進的資通訊科技，協助每一個企業提高生產力、競爭力和永續力，成為企業數位轉型的最佳夥伴。","80    I3901 Sr. Data Integration Engineer
+Name: job_name, dtype: object","80    台北市
+Name: company_addr, dtype: object"
+"邁訊科技有限公司
+                    ","公司本著誠信和積極的嚴謹態度對待每一個客戶，務求客戶任務達成盡善盡美。
+客戶遍佈電信商，網路設備製造商（Dlink, Foxconn.....），電信設備製造商(中磊，啟基....)，測試認證實驗室和手機製造商。二十年的業界基礎，累績豐厚的集成整合經驗和國際大廠keysight/Spirent/R&S/Anritsut/Starpoint/DTLINK Callbox都有豐厚的配合經驗，更在在5G和WIFI 測試驗證上有獨到的測試技術。","23              Wi-Fi設備應用和測試工程師 FAE
+143    5G網路設備應用工程師; FAE ; 通信設備應用工程師
+Name: job_name, dtype: object","23     新北市
+143    新北市
+Name: company_addr, dtype: object"
+"里仁事業股份有限公司
+                    ","在里仁，我們不僅守護海洋、大地和天空的生命，也關懷農友、消費者、工作夥伴們的健康。我們相信：守護土地與健康的使命沒有終點。一個人的力量有限，但一群人就可以翻轉世界！
+
+*里仁七大永續行動*
+【一、支持有機農業】
+推廣有機產品、與農友契作，只是里仁支持有機的一部分。陪伴農友從不施農藥化肥到通過有機驗證，我們相信最實在的支持，是和農友一起走過好與壞。 
+
+【二、守護本土蔬果】
+里仁號召廠商在研發新產品時，將成分中的進口原料改換為本土食材，我們努力在食材與食品供應中盡力實踐永續——吃在地，吃當季，提高台灣糧食自給率，減少食物里程與碳足跡。
+
+【三、推動少或無添加】
+從跨入農產加工領域開始，里仁就啟動「從零添加開始」的誠食革命。因此，除了堅決不使用防腐劑、人工色素香料等八大類添加物，就連政府公告合法的800餘項食品添加物，里仁也只慎選其中約1/10。
+
+【四、鼓勵低碳蔬食】
+我們認為，本土有機蔬果是最迷人的風味來源；永續飲食應該建構在沒有生命受到傷害的基礎上。除了提供永續食材，我們也推出數百道蔬食食譜、規劃無肉體驗、舉辦永續飲食生活節等活動，鼓勵更多人在三餐中實踐綠食影響力。
+
+【五、保育生態環境】
+里仁堅信「經濟與保育雙贏」才能確保動物好、土地好、人也好的生態永續共好。除了有機耕作，我們更積極與林務局、紫斑蝶協會等政府部會/民間團體共同推廣多項保育專案。為了鼓勵農友一起來養護大地，在推廣期以高於市價的契約種植來保價收購，也串連食品廠以加工方式為產量不定、長相大小不一的蔬果加值，努力營造棲地生態、為田間動物留生機。
+
+【六、實踐資源循環】
+里仁主動串連多家食品廠進行資源共享與合作開發。將文旦柚、桑椹等有機蔬果從裡到外完整利用，達到全果全食的循環經濟效益。在產品包裝上，除了不再提供購物袋，也逐步進行織品、用品與食品等包材減塑，並率先嘗試以「可堆肥生質袋」來包裝需要保鮮的葉菜與細嫩蔬果，同時透過自主回收，進行再利用產製出堆肥培養土與生質花盆。
+
+【七、落實社會關懷】
+為了照顧偏鄉部落與身心障礙的弱勢族群，我們鼓勵合作廠商在生產流程中找出機會：採用特定部落原料進行產品研發，或將簡單的包裝工作交給庇護工場代工。同時，里仁每年以超過千萬元的穩定實質訂單支持庇護工場、公平貿易及花東部落，期盼弱勢朋友們能夠透過工作機會自力更生，並感受到貢獻社會的自我肯定。","40    數據分析與工具發展
+Name: job_name, dtype: object","40    新北市
+Name: company_addr, dtype: object"
+"雲景科技股份有限公司
+                    ","移動互聯網的浪潮下，越來越多設備成為智慧的連網設備，雲景科技專注於智慧手機、智慧汽車、智慧硬體、人工智慧以及移動互聯網領域的嵌入式軟體技術研發與創新，為客戶提供全生命週期的解決方案。
+
+我們致力於成為專業的軟體服務公司，在智慧裝置眾多的終端與平台中，提供快速且高品質的軟體開發與測試，協助客戶取得市場上的優勢；同時也專注培育軟體人才，以終端軟體為核心出發，提供最優質的軟體服務給客戶，創造出雙贏的市場價值。","35                         [PMW] Modem BSP engineer
+49                 [PMW][L1] Layer 1 Modem Engineer
+76                        Android手機研發自動化測試工程師-Audio
+77              [PMW][MSSPower] Modem Test Engineer
+88           [PMW][MCS] Testing Engineer (Protocol)
+91                     [PMW][IMS002] Modem Engineer
+94     [PMW][MSSStability] Modem Stability Engineer
+229               [PMW][IMS001] Modem Test Engineer
+251                                Android手機軟體測試工程師
+Name: job_name, dtype: object","35     新北市
+49     新北市
+76     新北市
+77     新北市
+88     新北市
+91     新北市
+94     新北市
+229    新北市
+251    新北市
+Name: company_addr, dtype: object"
+"霍普金斯診所
+                    ",全預約制高品質醫療，不同於醫美診所，專精身體上各項體態、疼痛問題，全面採用最新科技儀器，達到完美體態，解除疼痛的最佳效果！,"98    Data Scientist/資料科學家
+Name: job_name, dtype: object","98    台北市
+Name: company_addr, dtype: object"
+"香港商易購全球有限公司台灣分公司
+                    ","媒體報導
+https://www.bnext.com.tw/article/51167/buyandship
+https://paper.hket.com/article/1996974/
+https://womany.net/read/article/15761
+","9    Software Engineer (Machine Learning)
+Name: job_name, dtype: object","9    台北市
+Name: company_addr, dtype: object"
+"香港商香港球鞋團隊有限公司
+                    ","以「Find Your Pair」為品牌口號，KICKS CREW 希望助所有人均能找到心儀的一雙球鞋。有見市場對於大眾化的運動鞋和服裝款式的需求不斷增長，提供了巨大的發展空間，因此，KICKS CREW 將致力打破目前市場上過度關注限量版和奢侈品所造成的空白，努力推進成為大眾消費者的首選平台。
+","61         Software engineer / 軟體工程師 (爬蟲)
+163    Quality Assurance Analyst / QA 分析師
+210              Data engineer/數據工程師 (分析)
+222            網站可靠性工程師 / 開發運維工程師 / 雲端工程師
+239               Software engineer/軟體工程師
+Name: job_name, dtype: object","61     台北市
+163    台北市
+210    台北市
+222    台北市
+239    台北市
+Name: company_addr, dtype: object"
+"鴻海精密工業股份有限公司
+                    ","【我們的服務】
+
+●深度的供應鏈垂直整合
+鴻海從代工製造起家，一路從OEM、ODM、IDM邁向現在的IIDM（Innovation Integration Design Manufacture）創新式整合設計製造服務，即提供的不再只是單純來料加工製造，更包含關鍵零組件、核心技術創新、軟體硬體整合到工業設計的一站式完整服務，將電子產業鏈最上游的零組件到產品需求的客戶兩端串連結合。
+●廣泛的國際化區域佈局
+透過串聯全球20餘國據點的運籌管理能力，善用各地不同優勢，靈活發揮規模綜效，強化客戶服務、產品製造、產業供應鏈的國際化戰略佈局，建立多元產業平台。提供一站式客戶服務、兩地研發、三區設計製造、全球組裝交貨的營運模式。
+●創新的智慧技術服務
+鴻海持續以「智慧」為核心，透過創新式整合設計製造服務（IIDM），致力於為全球標竿客戶打造軟硬整合的智慧製造與智能供應鏈，成為全方位智慧生活提供者。
+
+【我們服務的產品】
+
+●消費性電子產品領域（主要為智慧手機、電視、遊戲機等產品）
+個人使用的消費電子產品，包括智慧型手機、功能型手機、穿戴式裝置等以及家庭生活中的智慧娛樂系統及設備，包含電視機、遊戲機、機上盒、音箱等。涵蓋過去外界所定義的3C產品別中Consumer Electronics以及一部分Communications範疇。
+●雲端網路產品領域（主要為伺服器、網通等產品）
+企業以及一般消費者使用網路通訊、雲端空間所需的相關雲網設備，包括路由器、伺服器、邊緣運算、資料中心、衛星通訊等相關設備。
+●電腦終端產品領域（主要為電腦、平板等產品）
+工作生活所需的電子運算設備，以及辦公室職場工作所需的電子運算產品，包括桌上型電腦、筆記型電腦、平板電腦、商務機、印表機等，涵蓋過去外界所定義的3C產品別中Computing的範疇。
+●元件及其他產品領域（主要為連接器、機構件、服務等產品）
+涉及產業上游的關鍵零組件、技術零件，包含連接器、精密光學元件、以及鏡頭、電子元件、半導體產品、汽車電子零件、刀具/模治具與機械設備之製造與開發等，此外物流倉儲、軟體開發、醫療保健服務、工業互聯網整合方案領域，也歸屬此範疇。","12                                    車用軟體系統工程師
+34                        軟體測試工程師(新北土城/新店/高雄前鎮)
+36                            08.【2023新幹班】軟體工程類
+41     【系統晶片設計中心】數位IC設計工程師-ADAS NPU/DLA (內湖/新竹)
+48                            03.【2023新幹班】人工智慧類
+65                           【軟體研發中心】自動駕駛演算法工程師
+83                     【2023新幹班】iPEBG AI IT專案管理
+97                          【RD】iPEBG 模擬仿真建模工程師
+109                     【AI】iPEBG 智慧製造系統資料分析工程師
+110                    【系統晶片設計中心】車載軟/韌體自動化驗證工程師
+124                 【系統晶片設計中心】類比IC設計工程師 (內湖/新竹)
+130                       【軟體研發中心】電動車感知技術 軟體工程師
+146              【AI】iPEBG Machine Learning 工程師
+160                               Python軟件開發工程師
+166    【系統晶片設計中心】數位IC設計架構師-ADAS NPU/DLA (內湖/新竹)
+189                       數據工程師 (Data Engineer)
+191                               【軟體研發中心】後端工程師
+218                                     軟體開發工程師
+232                                  自駕車軟體研發工程師
+Name: job_name, dtype: object","12     新北市
+34     新北市
+36     新北市
+41     新竹市
+48     新北市
+65     台北市
+83     新北市
+97     新北市
+109    新北市
+110    新竹市
+124    新竹市
+130    新北市
+146    新北市
+160    新竹縣
+166    台北市
+189    新北市
+191    新北市
+218    新北市
+232    新北市
+Name: company_addr, dtype: object"
+"鼎佳能源股份有限公司
+                    ",誠信、正直、專業、創新,"203    電子工程師
+217    電控工程師
+Name: job_name, dtype: object","203    新竹縣
+217    新竹縣
+Name: company_addr, dtype: object"
